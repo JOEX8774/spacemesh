@@ -24,3 +24,9 @@ netsh advfirewall firewall add rule name="spacemesh" dir=in protocol=tcp localpo
    + 新增节点(节点的smsher_id是唯一的，不可重复)
    + 编辑节点
    + 节点是否注册
+
+offical public api  
+https://mainnet-explorer-api.spacemesh.network/smeshers/0x{smesher_id}  
+https://mainnet-explorer-api.spacemesh.network/accounts/sm1qqqqqqr9zqsvtsyle0nxg98u8hpsr3dx0ac9eggvt60sz  
+https://mainnet-explorer-api.spacemesh.network/accounts/sm1qqqqqqr9zqsvtsyle0nxg98u8hpsr3dx0ac9eggvt60sz/rewards  
+https://mainnet-explorer-api.spacemesh.network/rewards/65f753f6ef99155cfc20fda8  
