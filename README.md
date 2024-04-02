@@ -5,7 +5,7 @@
 
 Windows 设置  
 Set-ExecutionPolicy RemoteSigned  
-netsh advfirewall firewall add rule name="spacemesh" dir=in protocol=tcp localport=7513,7523,7533,7543,10022-10025 action=allow  
+netsh advfirewall firewall add rule name="spacemesh" dir=in protocol=tcp localport=7513,9093,9094,10001 action=allow  
 
 ## DIY API (miner reward)
 1. 账号管理(钱包地址)
